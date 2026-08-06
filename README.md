@@ -1,4 +1,4 @@
-# 🚁 Hi, I'm Ahmad! 👋
+# 🚁 Hi, I am Ahmad! 👋
 
 🎓 **Computer Engineering Student** at **UET Taxila**  
 💡 **Passionate about:** Autonomous UAVs, Decentralized Drone Swarms, Embedded Systems, and Robotics Systems Integration.
@@ -7,7 +7,7 @@
 
 ### 🔭 What I'm Working On:
 - 🚁 **Autonomous UAV & Swarm Architectures:** Developing cooperative drone swarm algorithms for area coverage, search-and-rescue, and object detection using **ROS2**, **ArduPilot SITL**, **Gazebo**, and **MAVSDK**.
-- ⚡ **Embedded & Edge Systems:** Hardware-software co-design using **ESP32**, **STM32**, and **Arduino** microcontrollers for real-time robotic controls.
+- ⚡ **Embedded & Edge Systems:** Hardware-software co-design using **ESP32**, and **Arduino** microcontrollers for real-time robotic controls.
 - 🌐 **Network & System Engineering:** Designing custom communication protocols and network topologies for dynamic multi-agent systems.
 
 ---
@@ -63,9 +63,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oye-ahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=oye-ahmad&theme=dark&hide_border=false" alt="Ahmad's Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oye-ahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oye-ahmad&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Ahmad's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oye-ahmad&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oye-ahmad&theme=dark&hide_border=false" alt="Ahmad's Streak Stats" />
 </p>
 
 ---
