@@ -20,7 +20,7 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MAVLink / MAVSDK](https://img.shields.io/badge/MAVLink_/_MAVSDK-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/Yolo-5C3EE8?style=for-the-badge&logo=yolo&logoColor=white)
 
 ### 🔌 Embedded Systems & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
