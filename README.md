@@ -1,4 +1,4 @@
-# 🚁 Hi, I am Ahmad! 👋
+# Hi, I am Ahmad! 👋
 
 🎓 **Computer Engineering Student** at **UET Taxila**  
 💡 **Passionate about:** Autonomous UAVs, Decentralized Drone Swarms, Embedded Systems, and Computer Vision Based Applications.
